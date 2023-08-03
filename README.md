@@ -4,11 +4,11 @@ Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 Web Developer
 -------------
 
-Sou académico de Sistemas para Internet na faculdade UniAlfa, e um entusiasta da tecnologia, gosto muito de desenvolvimento web e acabo tendo uma paixão maior por Back-end, mas tento sempre ter uma boa base em tudo, atualmente estou atuando como desenvolvedor junior
+Sou académico de Sistemas para Internet na faculdade UniAlfa, e um entusiasta da tecnologia, gosto muito de desenvolvimento web e acabo tendo uma paixão maior por Back-end, mas tento sempre ter uma boa base em tudo, atualmente estou atuando como desenvolvedor junior na GovFácil
 
 * 🌍  Resido em Umuarama-PR
 * ✉️  Contato [joaogabriel7303@gmail.com](mailto:joaogabriel7303@gmail.com)
-* 🧠  Atualmente aprendendo Java Spring FrameWork
+* 🧠  Atualmente aprendendo TypeScript com SOLID e Clean Architecture
 
 ### Skills
 
