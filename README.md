@@ -4,7 +4,11 @@ Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 Web Developer
 -------------
 
-Sou académico de Sistemas para Internet na faculdade UniAlfa, e um entusiasta da tecnologia, gosto muito de desenvolvimento web e acabo tendo uma paixão maior por Back-end, mas tento sempre ter uma boa base em tudo, atualmente estou atuando como desenvolvedor junior na GovFácil
+Olá, seja bem-vindo ao meu perfil! Meu nome é João, e sou apaixonado por tecnologia. Atualmente, atuo como Desenvolvedor Back-end na GovFácil Gestão e Tecnologia, onde trabalho em soluções inovadoras para otimizar processos e melhorar a experiência do usuário.
+
+Tenho experiência em diversas tecnologias como Node.js, Python, PostgreSQL, MongoDB, Docker e arquitetura de microsserviços. Além disso, tenho habilidades em web scraping e automação, aplicando técnicas para extrair dados valiosos e otimizar fluxos de trabalho.
+
+Estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos e contribuir com soluções tecnológicas eficientes.
 
 * 🌍  Resido em Umuarama-PR
 * ✉️  Contato [joaogabriel7303@gmail.com](mailto:joaogabriel7303@gmail.com)
@@ -34,11 +38,3 @@ Sou académico de Sistemas para Internet na faculdade UniAlfa, e um entusiasta d
 ### Socials
 
 <a href="http://www.instagram.com/_joao_grande_/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/joao-gabriel-grande/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/JGGrande"><img src="https://github-readme-stats.vercel.app/api?username=JGGrande&show_icons=true&hide=prs,issues,&title_color=6366f1&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&show_icons=true" alt="JGGrande's GitHub stats" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/JGGrande/ProgramerList" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JGGrande&repo=ProgramerList&title_color=6366f1&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
